@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Raleway:ital,wght@1,300&display=swap');
+
+.top {
+    padding-left: 100px;
+}
+
+.header-sec {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 87px;
+}
+
+.right-he a {
+    text-decoration: none;
+    color: #3A3A3A;
+    font-weight: 600;
+    font-size: 16px;
+    margin-right: 34px;
+}
+
+.left-he {
+    margin-left: 120px;
+    width: 30%;
+    padding-left: 18px;
+
+}
+
+.right-he {}
+
+
+span {
+    background-color: red;
+    border-radius: 41px;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10px 24px;
+    gap: 8px;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 12px;
+}
+
+/* //---------------------top----------- */
+.top {
+    padding-top: 120px;
+
+
+}
+
+.top-cam {
+    display: flex;
+    width: 80%;
+}
+
+.left-cam h1 {
+    font-size: 52px;
+}
+
+.left-cam p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.right-cam {}
+
+/* --------------------
+m       middle
+---------------------- */
+.mid {}
+
+.middle {}
+
+.logo-img {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    align-items: center;
+    justify-self: center;
+    margin-left: 126px;
+    margin-top: 100px;
+    margin-bottom: -80px;
+
+
+}
+
+/* -----------
+----------------------LAST
+---------------------------------------- */
+.last-sec {
+    margin-top: 150px;
+    Width: 1047px;
+    Height: 1662px;
+    margin-left: 190px;
+
+
+}
+
+.last-pic {}
+
+.last {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.last-star {
+    display: flex;
+
+}
+
+.fa-star {
+    color: gold;
+
+}
+
+.rating {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+
+.last-pic img {
+    border-radius: 20px;
+}
